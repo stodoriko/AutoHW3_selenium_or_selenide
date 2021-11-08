@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bq1hr58ns7rmrjpk/branch/master?svg=true)](https://ci.appveyor.com/project/stodoriko/autohw3-selenium-or-selenide/branch/master)
+
+
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
